@@ -4,13 +4,14 @@ var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
-var content={
-    title: 'article-one',
+var articleOne={
+    title: 'Weather Report by Venkatess Sundaramurthy',
     heading: 'Trouble for Aussies',
     date:  'Oct 5,2016',
     content:`
                         <p>
-                        "Based on the most recent forecast I received from the National Hurricane Center, the eye of Hurricane Matthew is going to be much closer to Florida," Scott said Wednesday night in a statement. "There are hurricane watches and warnings along Florida’s entire east coast and we now have Tropical Storm warnings on Florida’s Gulf Coast. This storm is serious and protecting life remains our number one priority."
+                        "Based on the most recent forecast I received from the National Hurricane Center, the eye of Hurricane Matthew
+                            going to be much closer to Florida," Scott said Wednesday night in a statement. "There are hurricane watches and warnings along Florida’s entire east coast and we now have Tropical Storm warnings on Florida’s Gulf Coast. This storm is serious and protecting life remains our number one priority."
                         </p>
                             
     
