@@ -21,7 +21,7 @@ var articles={
 'article-two':{
     title: 'Weather Report by Venkatess Sundaramurthy',
     heading: 'Trouble for Aussies',
-    date:  'Oct 5,2016',
+    date:  'Oct 6,2016',
     content:`
                         <p>
                         "Based on the most recent forecast I received from the National Hurricane Center, the eye of Hurricane Matthew
@@ -35,7 +35,7 @@ var articles={
 'article-three':{
     title: 'Weather Report by Venkatess Sundaramurthy',
     heading: 'Trouble for Aussies',
-    date:  'Oct 5,2016',
+    date:  'Oct 7,2016',
     content:`
                         <p>
                         "Based on the most recent forecast I received from the National Hurricane Center, the eye of Hurricane Matthew
