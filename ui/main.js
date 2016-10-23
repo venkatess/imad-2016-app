@@ -3,7 +3,7 @@ console.log('Loaded!');
 var element=document.getElementById('main-text');
 element.innerHTML='Dallas';
 //Changing the image Moving image
-var kodi=document.getElementById('main-text');
+var kodi=document.getElementById('tang');
 kodi.onclick=function(){
     kodi.style.marginLeft='100px';
 };
