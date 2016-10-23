@@ -6,7 +6,7 @@ element.innerHTML='Dallas';
 var kodi=document.getElementById('tang');
 var marginleft=0;
 function moveRight(){
- marginleft-marginleft+10; 
+ marginleft-marginleft + 10; 
  kodi.style.marginleft=marginleft + 'px';
 }
 kodi.onclick=function(){
